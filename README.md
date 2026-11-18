@@ -1,4 +1,4 @@
-# Assignment 01 — Containerized Order and Restaurant Services (Python)
+# Containerized Order and Restaurant Services (Python)
 
 Two independent Python/FastAPI microservices. The Order Service validates restaurant and menu item IDs by making real HTTP requests to the Restaurant Service; it does not import or call Restaurant Service functions.
 
